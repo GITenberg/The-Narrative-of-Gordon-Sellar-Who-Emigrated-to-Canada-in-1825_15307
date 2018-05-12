@@ -1,0 +1,31 @@
+_repo: The-Narrative-of-Gordon-Sellar-Who-Emigrated-to-Canada-in-1825_15307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellar, Gordon
+    gutenberg_agent_id: '39150'
+    url: http://www.gutenberg.org/2009/agents/39150
+  editor:
+    agent_name: Sellar, Robert
+    birthdate: 1841
+    deathdate: 1919
+    gutenberg_agent_id: '5988'
+    url: http://www.gutenberg.org/2009/agents/5988
+description: ''
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Frontier and pioneer life -- Ontario'
+- !lcsh 'Sellar, Gordon'
+title: The Narrative of Gordon Sellar Who Emigrated to Canada in 1825
+url: http://www.gutenberg.org/ebooks/15307
